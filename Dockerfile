@@ -1,4 +1,4 @@
-ROM debian:jessie
+FROM debian:jessie
 
 MAINTAINER Kai Heikka <synomi66@gmail.com>
 ENV DEBIAN_FRONTEND noninteractive
